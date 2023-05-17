@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+body {
+    text-align:justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+.title{
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+p{
+    margin-bottom: 40px;
+    font-size: 23px;
+    padding: 0 100px;
+}
