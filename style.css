@@ -16,6 +16,14 @@ body {
     text-transform: uppercase;
 
 }
+.nonvre{
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+
+}
 p{
     margin-bottom: 40px;
     font-size: 23px;
