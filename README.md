@@ -1,5 +1,5 @@
 # Diegowasa.github.io
-Diego Gomez Ticona
+Diego Sebastian Gomez Ticona
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +7,7 @@ Diego Gomez Ticona
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Diego Gomez Ticona</title>
+    <title>Diego Sebastian Gomez Ticona</title>
     <style>
         .amigues{
             display: block;
